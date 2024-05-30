@@ -1,0 +1,7 @@
+torch
+torchvision
+os
+random
+numpy
+pandas
+tensorflow
