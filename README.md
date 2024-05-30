@@ -22,7 +22,6 @@ git clone https://github.com/liuyhoong/-ImageNet-.git
 ```
 
 
-（由于设备资源有限，所以超参数选择范围并不是特别丰富）
 
 训练过程：
 =
